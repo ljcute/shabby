@@ -42,7 +42,7 @@ spring:
           initial-interval: 3000
 
   elasticsearch:
-    uris: es的ip:9200
+    uris: http://localhost:9200
 
   mail:
     host: smtp.163.com
